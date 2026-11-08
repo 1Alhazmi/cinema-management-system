@@ -50,8 +50,8 @@ Compiled and ran successfully with JDK 23.0.2 during preparation. Booking, missi
 
 ## Attribution and limitations
 
-The report describes four team roles as Member 1–4 without mapping them to names. The report does not establish the names behind these roles or Abdulrahman’s individual implementation contribution. The source is preserved unchanged. The report includes unfinished diagram/screenshot placeholders and some descriptions that differ from the implementation; they have not been silently rewritten. `Ticket.finalize()` uses a deprecated mechanism and may produce compiler warnings. State is held in memory, with no persistent storage or per-showtime seat model.
+Team size: 4 members. The source is preserved unchanged. The report includes unfinished diagram/screenshot placeholders and some descriptions that differ from the implementation; they have not been silently rewritten. `Ticket.finalize()` uses a deprecated mechanism and may produce compiler warnings. State is held in memory, with no persistent storage or per-showtime seat model.
 
 ## Publication
 
-Academic portfolio documentation. Team credits are retained. No license has been selected.
+Academic portfolio documentation. No license has been selected.
